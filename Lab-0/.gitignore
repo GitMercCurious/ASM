@@ -1,4 +1,4 @@
 /.vscode
 /build
 /pictures
-.tex
+*.tex
